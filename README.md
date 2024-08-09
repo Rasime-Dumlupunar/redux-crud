@@ -29,6 +29,9 @@
 2. Reducer : aksiyondan aldığı talimata (emir) göre store'da tutulan state'in nasıl değişeceğine karar veren fonksiyondur.
 3. Action (emir , haber, talimat) : Store'daki state'i güncellemek için reducer'a gönderdiğimiz nesnedir.
 
+
+![](https://github.com/Rasime-Dumlupunar/chatGPT-Clone/blob/main/chatGPT.gif)
+
 -- Action iki değerli bir nesne döndürür.
 - TYPE : zorunludur. Actionun görevini tanımlayan bir string değerdir.
 - PAYLOAD : opsiyoneldir. Actionun verisidir.
